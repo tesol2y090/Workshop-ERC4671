@@ -9,3 +9,5 @@ typechain-types
 cache
 artifacts
 
+#Hardhat deployment
+deployments
